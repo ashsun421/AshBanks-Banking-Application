@@ -1,0 +1,5 @@
+Username: aman
+Password: 123
+Role: customer
+Balance: 21080.0
+Level: Platinum 0.0

@@ -1,0 +1,5 @@
+Username: krunal
+Password: 123
+Role: customer
+Balance: 22570.0
+Level: Platinum

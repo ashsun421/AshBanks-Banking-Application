@@ -1,0 +1,5 @@
+Username: hazem
+Password: 123
+Role: customer
+Balance: 9729.01
+Level: Silver
